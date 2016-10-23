@@ -1,0 +1,5 @@
+{
+  "PrivateKeyPath": "/Users/gerardcl/Documents/workspace/go/src/github.com/gerardcl/go-playing/master-server/settings/keys/private_key",
+  "PublicKeyPath": "/Users/gerardcl/Documents/workspace/go/src/github.com/gerardcl/go-playing/master-server/settings/keys/public_key.pub",
+  "JWTExpirationDelta": 72
+}
