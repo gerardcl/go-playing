@@ -42,6 +42,11 @@
                         // execute callback with false to indicate failed login
                         callback(false);
                     }
+                })
+                .error(function(error,status){
+                    // execute callback with false to indicate failed login
+                    //console.log(status);
+                    callback(false);
                 });
         }
 
